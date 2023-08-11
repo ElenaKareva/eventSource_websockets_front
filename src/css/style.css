@@ -141,10 +141,9 @@ body {
 }
 
 .close-chat {
-    display: flex;
+    display: block;
     width: 50%;
-    margin: auto;
-    margin-top: 15px;
+    margin: 0 auto;
     border-radius: inherit;
     height: 25px;
     background-color: inherit;
